@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, my name is Pritpal Panesar. I'm currently a Platform Engineer with [Kainos](https://kainos.com).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I've had many roles over my career from developer, development team manager, system architect and release engineer.
+
+This blog has some random musings on the various issues/tasks I perform. My role mainly involves working with [Azure](https://portal.azure.com) at the moment. Usually, finding information can be easy enough to do, but every so often there just isn't any information (or just not enough) that is useful.
