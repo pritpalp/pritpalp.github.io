@@ -2,8 +2,15 @@
 title: "Copying Branch Policies in Azure Devops Repos!"
 date: 2021-08-14 15:00:00 +0100
 toc: true
+toc_sticky: true
+categories:
+  - Azure
 tags:
   - Blog
+  - Azure CLI
+  - Azure Devops Repos
+  - Azure Devops CLI
+excerpt: How to copy branch policies between branches in Azure Devops
 header: 
   overlay_image: /assets/images/post-header.jpg
   caption: "Photo by [**Irvan Smith**](https://unsplash.com/@mr_vero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
