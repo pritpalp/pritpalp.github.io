@@ -24,6 +24,7 @@ search: true
 repository: pritpalp/pritpalp.github.io
 github: [metadata]
 locale: "en-GB"
+url: https://www.ppanesar.com
 
 # Build settings
 markdown: kramdown
