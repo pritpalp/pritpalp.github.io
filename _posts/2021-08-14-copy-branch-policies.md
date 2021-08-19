@@ -10,6 +10,7 @@ tags:
   - Azure CLI
   - Azure Devops Repos
   - Azure Devops CLI
+  - Shell script
 excerpt: How to copy branch policies between branches in Azure Devops
 header: 
   overlay_image: /assets/images/post-header.jpg
