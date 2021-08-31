@@ -6,7 +6,7 @@ categories:
 tags:
   - Blog
   - ASE
-  = SSL Certificate
+  - SSL Certificate
 excerpt: How to update your ASE SSL certificate
 header: 
   overlay_image: /assets/images/post-header.jpg
