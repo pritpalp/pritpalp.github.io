@@ -1,6 +1,6 @@
 ---
 title: "Starting with Bicep"
-date: 2021-08-30 20:00:00 +0100
+date: 2021-09-30 20:00:00 +0100
 toc: true
 toc_sticky: true
 categories:
@@ -73,7 +73,7 @@ The first one is `The property "name" is not allowed on objects of type "SitePro
 
 The second warning is `The property "minTlsVersion" is not allowed on objects of type "SiteProperties".`. Checking the [documentation](https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.management.websites.models.siteconfig.mintlsversion?view=azure-dotnet) we can see that "minTlsVersion" should be part of the SiteConfig section. Moving it resolves this issue.
 
-The third warning is `The property "location" does not exist in the resource definition, although it might still be valid.` This relates to the "location" value in the hotNameBindings section, removing the property resolves this issue.
+The third warning is `The property "location" does not exist in the resource definition, although it might still be valid.` This relates to the "location" value in the hostNameBindings section, removing the property resolves this issue.
 
 The remaining error relates to the fact that the bicep files do not need to have a "dependsOn" section. Removing this section resolves this error.
 
