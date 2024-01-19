@@ -45,7 +45,7 @@ There's a button to push to complete the assessment, and again it does that a wh
 
 Once that's done, you get a message to say if you passed and a score with breakdown (a cross or tick) the tasks you had to complete.
 
-![Applied Skills Credential](/assets/images/applied-skills-cred.png)
+![Applied Skills Credential](/assets/images/aapplied-skills-cert.png)
 
 If you fail, you need to wait 72 hours before you can take the assessment again.
 
