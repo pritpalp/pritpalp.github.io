@@ -53,7 +53,7 @@ For each of the pipelines that we call, we need to ensure that the permissions a
 
 Selecting the pipeline to be called, select manage security:
 
-![ADO Pipeline Security](/assets/images/ado-pipeline-security.jpg)
+![ADO Pipeline Security](/assets/images/ado-pipleine-security.jpg)
 
 You need to find the user that ADO will use to run the pipelines. I found the user, but trying to run the pipeline and pulling the name of the user from the error.
 
